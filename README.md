@@ -8,6 +8,7 @@ Languages:
 
 - Python
 - SQL
+
 Libraries:
 
 - Mysql connector
