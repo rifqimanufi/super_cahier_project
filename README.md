@@ -1,4 +1,4 @@
-# super_cahier_project
+# super_cashier_project
 
 ## A. Background
 super cashier system is a program for management product and transaction for super market. the system is used for support operational and hopefully make every owner easy to manage every transaction.
